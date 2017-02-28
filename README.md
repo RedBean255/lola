@@ -1,2 +1,2 @@
-# lola
+# Lola
 Getting started
